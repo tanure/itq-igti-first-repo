@@ -11,3 +11,7 @@ Aprendi sobre os comandos
 - Push
 - Pull
 
+
+# Trabalhando com  BRANCHES
+
+- **Comando**: git branch <nane-new-branch>
