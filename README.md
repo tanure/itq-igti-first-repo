@@ -9,5 +9,5 @@ Aprendi sobre os comandos
 - Add
 - Commit
 - Push
-  
+- Pull
 
