@@ -12,6 +12,6 @@ Aprendi sobre os comandos
 - Pull
 
 
-# Trabalhando com  branchs
+# Trabalhando com  BRANCHES
 
 - **Comando**: git branch <nane-new-branch>
