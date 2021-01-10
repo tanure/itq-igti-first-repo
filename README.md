@@ -1,5 +1,6 @@
-#Primeiro arquivo git
+# Primeiro Repositorio no git
 
+Estou aprendendo a criar repositorios no github.
 
 # Comandos
 Aprendi sobre os comandos
@@ -8,3 +9,5 @@ Aprendi sobre os comandos
 - Add
 - Commit
 - Push
+  
+
