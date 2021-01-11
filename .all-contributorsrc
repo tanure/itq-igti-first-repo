@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tanure",
+      "name": "Albert Tanure",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/6145263?v=4",
+      "profile": "http://www.codefc.com.br",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "itq-igti-first-repo",
+  "projectOwner": "tanure",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
