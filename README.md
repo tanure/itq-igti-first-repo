@@ -15,5 +15,3 @@ Aprendi sobre os comandos
 # Trabalhando com  BRANCHES
 
 - **Comando**: git branch <nane-new-branch>
-  
-[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/remarkablemark/html-react-parser/graphs/contributors)
